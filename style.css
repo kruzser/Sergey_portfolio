@@ -1,0 +1,121 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+     background-color: rgb(234, 163, 255);
+     height: 80px;
+    
+    
+    
+}
+
+.ava{
+    width: 200px;
+    border-radius: 20%;
+    position: absolute;
+    box-shadow: 0px 3px 10px 10px rgb(234, 163, 255);
+    
+}
+
+nav a{
+   margin-top: 30px;;
+    top:50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+    
+}
+
+header{
+      background-color: rgb(234, 163, 255)
+}
+
+main div{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+.mid{
+    width: 50px;
+}
+
+.name{
+    background-image: linear-gradient(rgb(234, 163, 255), lightblue);
+    
+}
+
+main{
+    background-color: lightblue;
+    height: 1000px;
+}
+
+html{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.triangle{
+    width: 1px;
+    height: 1px;
+    border: 170px solid transparent;
+    border-bottom: 200px solid rgb(234, 163, 255);
+    position: relative;
+    left: 320px;
+    top:100px;
+}
+.square{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(234, 163, 255);
+    position: relative;
+    left: 50px;
+    bottom: 270px;
+}
+
+.circle{
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    background-color: rgb(234, 163, 255);
+    position: relative;
+    left: 650px;
+    bottom: 650px;
+}
+
+.about{
+    text-align: center;
+    margin-top:170px;
+    margin-bottom: 0;
+}
+
+.hobby{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    font-size: 34px;
+    left: 150px;
+    bottom: 460px;
+    width: 300px;
+    
+}
+
+.comm{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    font-size: 34px;
+    left: 355px;
+   bottom: 580px;
+    width: 300px;
+    text-align: center;
+    
+}
+
+.exp{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    font-size: 34px;
+    left: 615px;
+   bottom: 1000px;
+    width: 300px;
+    text-align: center;
+    
+}
